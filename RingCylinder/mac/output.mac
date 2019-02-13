@@ -1,0 +1,50 @@
+
+
+# ****** Verbosity
+/gate/verbose Physic    0
+/gate/verbose Cuts      0
+/gate/verbose SD        0
+/gate/verbose Actions   0
+/gate/verbose Actor     0
+/gate/verbose Step      0
+/gate/verbose Error     0
+/gate/verbose Warning   0
+/gate/verbose Output    0
+/gate/verbose Beam      0
+/gate/verbose Volume    0
+/gate/verbose Image     0
+/gate/verbose Geometry  0
+/gate/verbose Core      0
+
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+################OUTPUT############################
+#
+/gate/output/verbose 0
+
+# ********* ASCii output
+/gate/output/ascii/disable
+#/gate/output/ascii/setFileName ../simdata/simAscii/simPET_20cm1_
+/gate/output/ascii/setOutFileHitsFlag 0
+/gate/output/ascii/setOutFileSinglesFlag 0
+/gate/output/ascii/setOutFileCoincidencesFlag 0
+#/gate/output/ascii/setOutFileSizeLimit 100000000
+
+# ********* set root output
+/gate/output/root/enable
+/gate/output/root/setFileName ./output/test
+/gate/output/root/setRootHitFlag 0
+/gate/output/root/setRootSinglesFlag 0
+/gate/output/root/setRootCoincidencesFlag 1 
+/gate/output/root/setRootNtupleFlag 0
+
+#
+# ********** Random option ***
+#
+/gate/random/setEngineName MersenneTwister
+/gate/random/setEngineSeed auto
+/gate/random/verbose 0
+#
+#################################################

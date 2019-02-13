@@ -1,0 +1,34 @@
+#  *********************************************************************
+#
+#  copyright © 2016-2017 Xiaozhuang Wang All rights reserved. 
+#
+#**********************************************************************
+#  Ring Rmax:              Rmin:
+#
+#
+#
+#
+
+#/vis/disable
+/gate/geometry/setMaterialDatabase /home/petgroup/tools/gate_v7.1/GateMaterials.db 
+/control/execute  ./mac/visu.mac 
+
+
+
+/control/execute  ./mac/geometry.mac 
+/control/execute  ./mac/phantom.mac  
+/control/execute  ./mac/physics.mac  
+/control/execute  ./mac/initialization.mac 
+/control/execute  ./mac/digitizer.mac
+/control/execute  ./mac/source.mac 
+#/control/execute  ./mac/output.mac 
+#/control/execute  ./mac/startDAQ.mac 
+
+exit
+
+
+
+
+
+
+

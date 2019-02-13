@@ -1,0 +1,62 @@
+######################################################################
+#
+# *********************** Digitization ***************************** 
+#
+/gate/digitizer/Singles/insert adder
+/gate/digitizer/Singles/insert readout
+/gate/digitizer/Singles/readout/setDepth 2
+
+# ********** CRYSTAL ENERGY BLURRING **************
+/gate/digitizer/Singles/insert crystalblurring
+#/gate/digitizer/Singles/blurring/setLaw inverseSquare
+#/gate/digitizer/Singles/blurring/inverseSquare/setResolution 0.15
+/gate/digitizer/Singles/crystalblurring/setCrystalResolutionMin 0.24
+/gate/digitizer/Singles/crystalblurring/setCrystalResolutionMax 0.26
+/gate/digitizer/Singles/crystalblurring/setCrystalEnergyOfReference 511. keV
+/gate/digitizer/Singles/crystalblurring/setCrystalQE 1.0
+
+# ********** ENERGY WINDOW
+/gate/digitizer/Singles/insert thresholder
+/gate/digitizer/Singles/thresholder/setThreshold 10 keV
+/gate/digitizer/Singles/insert upholder
+/gate/digitizer/Singles/upholder/setUphold 2000 keV
+
+# *****************TEMPORAL RESOLUTION
+/gate/digitizer/Singles/insert timeResolution
+/gate/digitizer/Singles/timeResolution/setTimeResolution 5.303 ns
+
+# ******* Dead Time1: Dead Time in SubModule 
+/gate/digitizer/Singles/name deadtime1
+/gate/digitizer/Singles/insert deadtime
+/gate/digitizer/Singles/deadtime1/setDeadTime 10 ns
+/gate/digitizer/Singles/deadtime1/setMode paralysable
+/gate/digitizer/Singles/deadtime1/chooseDTVolume crystal
+
+# ******* Dead Time2: Dead Time2 in Module 
+/gate/digitizer/Singles/name deadtime2
+/gate/digitizer/Singles/insert deadtime
+/gate/digitizer/Singles/deadtime2/setDeadTime 10 ns
+/gate/digitizer/Singles/deadtime2/setMode nonparalysable
+/gate/digitizer/Singles/deadtime2/chooseDTVolume module
+
+# *** COINCIDENCE SORTER: takeAllGoods, takeWinnerOfGoods 
+/gate/digitizer/Coincidences/setWindow 10.0 ns
+/gate/digitizer/Coincidences/setDepth 1
+/gate/digitizer/Coincidences/minSectorDifference 4
+/gate/digitizer/Coincidences/allPulseOpenCoincGate false
+/gate/digitizer/Coincidences/MultiplesPolicy takeAllGoods
+
+#*****COINCIDENCE DELAY *****
+/gate/digitizer/name delay
+/gate/digitizer/insert coincidenceSorter
+/gate/digitizer/delay/setWindow 10.0 ns
+/gate/digitizer/delay/minSectorDifference 4
+/gate/digitizer/delay/setOffset 1500 ns
+/gate/digitizer/delay/setDepth 1
+/gate/digitizer/delay/allPulseOpenCoincGate false
+/gate/digitizer/delay/MultiplesPolicy takeAllGoods
+ 
+#
+########################################################################
+
+

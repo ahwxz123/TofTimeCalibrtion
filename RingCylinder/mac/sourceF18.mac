@@ -1,0 +1,23 @@
+
+
+#
+# ****** SOURCE **************#
+#
+#	S O U R C E
+/gate/source/addSource ringsource
+/gate/source/ringsource/setActivity 1. mCi
+#/gate/source/ringsource/setType backtoback
+#/gate/source/ringsource/gps/particle gamma
+#/gate/source/ringsource/gps/energytype Mono 
+/gate/source/ringsource/gps/particle e+ 
+/gate/source/ringsource/gps/energytype Fluor18
+/gate/source/ringsource/setForcedUnstableFlag true
+/gate/source/ringsource/setForcedHalfLife 6586 s
+/gate/source/ringsource/gps/type Volume
+/gate/source/ringsource/gps/shape Cylinder
+/gate/source/ringsource/gps/radius  150 mm 
+/gate/source/ringsource/gps/halfz 300 mm
+/gate/source/ringsource/gps/centre 0. 0. 0. mm
+/gate/source/ringsource/gps/angtype iso
+
+/gate/source/ringsource/gps/confine ringphantom

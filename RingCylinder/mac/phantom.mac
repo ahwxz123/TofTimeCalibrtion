@@ -1,0 +1,29 @@
+#######################################################
+#       P H A N T O M   G E O M E T R Y
+
+/gate/world/daughters/name waterphantom 
+/gate/world/daughters/insert cylinder
+/gate/waterphantom/placement/setTranslation 0.0 0.0 0.0 cm
+/gate/waterphantom/geometry/setRmax 150.0 mm
+/gate/waterphantom/geometry/setRmin 140.0 mm
+/gate/waterphantom/geometry/setHeight 600.00 mm
+/gate/waterphantom/setMaterial Water
+/gate/waterphantom/vis/forceSolid
+/gate/waterphantom/vis/setColor blue 
+
+
+/gate/world/daughters/name coldarea 
+/gate/world/daughters/insert cylinder
+/gate/coldarea/placement/setTranslation 0.0 0.0 0.0 cm
+/gate/coldarea/geometry/setRmax 140.0 mm
+/gate/coldarea/geometry/setRmin 0.0 mm
+/gate/coldarea/geometry/setHeight 600.00 mm
+/gate/coldarea/vis/forceSolid
+/gate/coldarea/vis/setColor green 
+/gate/coldarea/setMaterial Air
+
+
+
+#      A t t a c h   P h a n t o m
+/gate/waterphantom/attachPhantomSD
+#######################################################

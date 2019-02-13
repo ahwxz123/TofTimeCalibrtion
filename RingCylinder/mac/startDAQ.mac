@@ -1,0 +1,10 @@
+#
+############### START Acquisition ################
+#  
+/gate/application/setTimeSlice     0.5  s
+/gate/application/setTimeStart     0.0  s
+/gate/application/setTimeStop      200.  s
+
+/gate/application/startDAQ
+#
+##################################################

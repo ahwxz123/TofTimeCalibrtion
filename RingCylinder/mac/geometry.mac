@@ -1,0 +1,126 @@
+#  *********************************************************************
+#  
+#  History: 
+
+#         Oct. 13, 2016: Hui Zhang wrote for TOF PET#         
+#  *********************************************************************
+#  
+#
+# GEOMETRY : FMI Scanner for whole-body PET imaging
+# Reference: FMI internal EDRs
+# Ring: Rmin = 390.00 mm (CFOV to crystal face), Height = 405.60 mm
+# 36 rsectors, 1x4 modules per rsector, 2x3 submodules per module, 8x8 crystals per submodule
+# crystal: 4.0 x 4.0 x 20 mm^3, 0.1 mm coating in both both directions
+
+#
+
+/control/verbose 2
+#
+# ****** Visualization
+#
+#/gate/geometry/setMaterialDatabase /home/petgroup/tools/gate_v7.1/GateMaterials.db
+
+# *************************
+# *** Initialization
+# *************************
+
+# World 
+/gate/world/geometry/setXLength 100. cm
+/gate/world/geometry/setYLength 100. cm
+/gate/world/geometry/setZLength 100. cm
+
+
+#
+# ****** CYLINDRICAL PET SYSTEM
+# 
+/gate/world/daughters/name cylindricalPET
+/gate/world/daughters/insert cylinder
+/gate/cylindricalPET/setMaterial Air
+/gate/cylindricalPET/placement/setTranslation 0.0 0.0 0.0 mm
+/gate/cylindricalPET/geometry/setRmax 422.00 mm
+/gate/cylindricalPET/geometry/setRmin 350.00 mm
+/gate/cylindricalPET/geometry/setHeight 525.60 mm
+
+# ****** RSECTOR (over rings) --- level 1
+/gate/cylindricalPET/daughters/name rsector
+/gate/cylindricalPET/daughters/insert box
+/gate/rsector/placement/setTranslation 400.0 0.0 0.0 mm
+/gate/rsector/geometry/setXLength 20.0 mm
+/gate/rsector/geometry/setYLength 67.6 mm
+/gate/rsector/geometry/setZLength 405.60 mm
+/gate/rsector/setMaterial Air
+
+# ****** MODULE --- level 2
+/gate/rsector/daughters/name module
+/gate/rsector/daughters/insert box
+/gate/module/placement/setTranslation 0.0 0.0 0.0 mm
+/gate/module/geometry/setXLength 20.0 mm
+/gate/module/geometry/setYLength 67.6 mm
+/gate/module/geometry/setZLength 135.20 mm
+/gate/module/setMaterial Air
+
+# ****** SUBMODULE --- level 3
+/gate/module/daughters/name submodule
+/gate/module/daughters/insert box
+/gate/submodule/placement/setTranslation 0.0 0.0 0.0 mm
+/gate/submodule/geometry/setXLength 20.0 mm
+/gate/submodule/geometry/setYLength 33.80 mm
+/gate/submodule/geometry/setZLength 33.80 mm
+/gate/submodule/setMaterial Air
+
+# ****** CRYSTAL --- level 4
+/gate/submodule/daughters/name crystal
+/gate/submodule/daughters/insert box
+/gate/crystal/placement/setTranslation 0.0 0.0 0.0 mm
+/gate/crystal/geometry/setXLength 20.0 mm
+/gate/crystal/geometry/setYLength 4.0 mm
+/gate/crystal/geometry/setZLength 4.0 mm
+/gate/crystal/setMaterial Air
+
+# ****** LAYER --- level 5
+/gate/crystal/daughters/name det0
+/gate/crystal/daughters/insert box
+/gate/det0/placement/setTranslation 0.0 0.0 0.0 mm
+/gate/det0/geometry/setXLength 20.00 mm
+/gate/det0/geometry/setYLength 4.00 mm
+/gate/det0/geometry/setZLength 4.00 mm
+/gate/det0/setMaterial LYSO
+
+# ****** REPEAT CRYSTAL: 8x8 in submodule
+/gate/crystal/repeaters/insert cubicArray
+/gate/crystal/cubicArray/setRepeatNumberX 1
+/gate/crystal/cubicArray/setRepeatNumberY 8 
+/gate/crystal/cubicArray/setRepeatNumberZ 8
+/gate/crystal/cubicArray/setRepeatVector 0.0 4.20 4.20 mm
+
+# ****** REPEAT SUBMODULE: 2x3 in module
+/gate/submodule/repeaters/insert cubicArray
+/gate/submodule/cubicArray/setRepeatNumberX 1
+/gate/submodule/cubicArray/setRepeatNumberY 2
+/gate/submodule/cubicArray/setRepeatNumberZ 4
+/gate/submodule/cubicArray/setRepeatVector 0.0 33.80 33.80 mm
+
+# ****** REPEAT MODULE: 1x4 in rsector
+/gate/module/repeaters/insert cubicArray
+/gate/module/cubicArray/setRepeatNumberX 1
+/gate/module/cubicArray/setRepeatNumberY 1
+/gate/module/cubicArray/setRepeatNumberZ 3
+/gate/module/cubicArray/setRepeatVector 0.00 0.0 135.20 mm
+
+# ****** REPEAT RSECTOR: 36 in ring
+/gate/rsector/repeaters/insert ring
+/gate/rsector/ring/setRepeatNumber 36
+/gate/rsector/ring/setFirstAngle 5.0000000000 deg
+/gate/rsector/ring/setAngularSpan 360 deg
+
+# ****** ATTACH SYSTEM 
+/gate/systems/cylindricalPET/rsector/attach rsector
+/gate/systems/cylindricalPET/module/attach module
+/gate/systems/cylindricalPET/submodule/attach submodule
+/gate/systems/cylindricalPET/crystal/attach crystal
+/gate/systems/cylindricalPET/layer0/attach det0
+
+# ****** ATTACH LAYER  SD
+/gate/det0/attachCrystalSD
+/gate/systems/cylindricalPET/describe
+

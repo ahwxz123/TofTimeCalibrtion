@@ -1,0 +1,801 @@
+#! /bin/sh
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW1.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW1.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW2.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW2.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW3.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW3.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW4.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW4.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW5.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW5.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW6.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW6.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW7.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW7.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW8.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW8.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW9.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW9.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW10.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW10.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW11.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW11.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW12.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW12.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW13.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW13.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW14.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW14.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW15.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW15.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW16.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW16.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW17.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW17.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW18.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW18.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW19.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW19.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW20.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW20.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW21.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW21.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW22.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW22.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW23.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW23.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW24.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW24.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW25.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW25.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW26.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW26.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW27.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW27.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW28.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW28.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW29.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW29.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW30.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW30.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW31.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW31.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW32.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW32.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW33.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW33.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW34.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW34.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW35.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW35.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW36.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW36.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW37.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW37.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW38.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW38.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW39.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW39.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW40.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW40.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW41.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW41.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW42.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW42.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW43.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW43.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW44.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW44.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW45.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW45.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW46.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW46.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW47.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW47.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW48.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW48.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW49.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW49.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW50.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW50.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW51.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW51.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW52.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW52.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW53.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW53.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW54.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW54.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW55.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW55.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW56.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW56.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW57.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW57.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW58.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW58.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW59.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW59.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW60.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW60.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW61.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW61.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW62.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW62.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW63.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW63.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW64.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW64.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW65.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW65.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW66.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW66.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW67.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW67.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW68.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW68.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW69.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW69.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW70.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW70.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW71.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW71.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW72.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW72.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW73.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW73.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW74.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW74.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW75.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW75.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW76.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW76.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW77.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW77.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW78.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW78.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW79.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW79.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW80.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW80.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW81.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW81.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW82.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW82.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW83.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW83.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW84.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW84.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW85.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW85.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW86.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW86.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW87.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW87.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW88.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW88.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW89.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW89.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW90.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW90.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW91.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW91.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW92.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW92.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW93.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW93.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW94.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW94.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW95.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW95.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW96.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW96.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW97.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW97.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW98.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW98.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW99.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW99.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW100.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW100.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW101.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW101.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW102.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW102.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW103.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW103.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW104.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW104.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW105.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW105.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW106.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW106.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW107.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW107.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW108.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW108.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW109.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW109.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW110.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW110.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW111.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW111.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW112.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW112.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW113.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW113.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW114.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW114.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW115.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW115.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW116.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW116.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW117.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW117.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW118.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW118.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW119.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW119.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW120.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW120.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW121.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW121.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW122.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW122.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW123.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW123.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW124.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW124.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW125.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW125.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW126.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW126.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW127.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW127.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW128.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW128.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW129.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW129.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW130.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW130.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW131.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW131.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW132.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW132.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW133.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW133.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW134.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW134.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW135.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW135.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW136.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW136.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW137.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW137.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW138.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW138.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW139.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW139.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW140.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW140.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW141.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW141.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW142.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW142.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW143.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW143.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW144.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW144.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW145.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW145.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW146.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW146.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW147.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW147.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW148.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW148.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW149.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW149.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW150.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW150.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW151.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW151.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW152.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW152.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW153.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW153.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW154.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW154.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW155.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW155.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW156.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW156.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW157.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW157.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW158.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW158.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW159.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW159.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW160.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW160.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW161.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW161.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW162.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW162.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW163.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW163.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW164.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW164.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW165.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW165.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW166.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW166.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW167.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW167.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW168.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW168.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW169.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW169.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW170.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW170.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW171.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW171.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW172.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW172.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW173.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW173.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW174.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW174.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW175.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW175.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW176.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW176.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW177.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW177.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW178.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW178.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW179.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW179.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW180.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW180.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW181.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW181.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW182.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW182.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW183.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW183.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW184.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW184.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW185.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW185.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW186.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW186.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW187.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW187.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW188.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW188.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW189.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW189.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW190.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW190.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW191.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW191.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW192.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW192.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW193.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW193.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW194.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW194.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW195.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW195.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW196.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW196.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW197.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW197.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW198.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW198.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW199.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW199.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW200.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW200.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW201.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW201.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW202.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW202.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW203.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW203.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW204.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW204.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW205.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW205.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW206.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW206.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW207.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW207.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW208.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW208.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW209.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW209.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW210.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW210.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW211.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW211.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW212.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW212.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW213.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW213.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW214.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW214.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW215.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW215.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW216.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW216.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW217.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW217.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW218.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW218.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW219.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW219.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW220.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW220.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW221.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW221.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW222.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW222.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW223.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW223.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW224.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW224.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW225.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW225.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW226.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW226.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW227.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW227.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW228.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW228.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW229.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW229.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW230.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW230.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW231.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW231.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW232.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW232.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW233.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW233.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW234.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW234.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW235.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW235.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW236.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW236.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW237.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW237.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW238.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW238.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW239.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW239.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW240.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW240.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW241.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW241.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW242.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW242.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW243.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW243.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW244.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW244.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW245.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW245.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW246.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW246.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW247.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW247.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW248.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW248.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW249.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW249.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW250.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW250.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW251.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW251.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW252.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW252.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW253.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW253.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW254.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW254.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW255.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW255.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW256.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW256.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW257.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW257.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW258.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW258.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW259.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW259.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW260.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW260.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW261.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW261.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW262.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW262.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW263.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW263.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW264.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW264.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW265.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW265.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW266.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW266.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW267.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW267.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW268.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW268.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW269.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW269.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW270.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW270.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW271.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW271.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW272.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW272.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW273.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW273.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW274.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW274.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW275.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW275.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW276.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW276.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW277.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW277.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW278.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW278.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW279.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW279.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW280.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW280.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW281.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW281.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW282.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW282.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW283.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW283.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW284.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW284.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW285.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW285.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW286.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW286.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW287.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW287.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW288.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW288.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW289.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW289.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW290.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW290.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW291.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW291.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW292.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW292.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW293.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW293.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW294.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW294.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW295.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW295.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW296.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW296.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW297.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW297.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW298.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW298.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW299.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW299.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW300.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW300.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW301.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW301.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW302.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW302.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW303.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW303.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW304.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW304.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW305.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW305.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW306.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW306.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW307.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW307.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW308.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW308.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW309.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW309.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW310.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW310.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW311.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW311.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW312.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW312.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW313.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW313.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW314.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW314.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW315.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW315.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW316.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW316.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW317.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW317.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW318.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW318.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW319.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW319.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW320.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW320.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW321.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW321.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW322.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW322.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW323.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW323.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW324.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW324.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW325.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW325.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW326.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW326.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW327.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW327.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW328.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW328.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW329.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW329.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW330.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW330.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW331.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW331.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW332.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW332.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW333.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW333.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW334.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW334.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW335.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW335.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW336.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW336.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW337.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW337.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW338.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW338.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW339.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW339.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW340.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW340.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW341.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW341.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW342.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW342.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW343.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW343.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW344.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW344.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW345.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW345.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW346.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW346.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW347.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW347.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW348.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW348.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW349.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW349.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW350.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW350.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW351.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW351.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW352.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW352.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW353.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW353.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW354.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW354.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW355.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW355.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW356.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW356.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW357.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW357.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW358.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW358.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW359.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW359.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW360.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW360.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW361.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW361.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW362.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW362.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW363.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW363.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW364.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW364.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW365.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW365.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW366.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW366.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW367.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW367.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW368.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW368.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW369.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW369.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW370.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW370.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW371.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW371.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW372.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW372.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW373.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW373.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW374.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW374.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW375.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW375.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW376.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW376.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW377.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW377.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW378.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW378.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW379.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW379.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW380.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW380.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW381.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW381.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW382.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW382.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW383.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW383.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW384.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW384.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW385.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW385.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW386.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW386.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW387.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW387.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW388.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW388.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW389.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW389.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW390.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW390.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW391.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW391.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW392.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW392.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW393.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW393.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW394.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW394.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW395.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW395.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW396.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW396.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW397.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW397.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW398.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW398.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW399.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW399.pbs
+echo qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW400.pbs
+qsub /home/petgroup/tools/jobs/.Gate/ringW18/ringW400.pbs
